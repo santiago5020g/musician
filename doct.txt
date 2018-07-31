@@ -1,0 +1,22 @@
+blocked features, click here.
+Hi Santiago, good afternoon.
+
+Mary has already chosen a template for its website. The template selected is this one:
+
+http://www.pixel-industry.com/html/musician/musician-html/home-page-music-artist.html
+
+Please, get that template on your PC, and setup a simple website with this. Sections to be included are:
+- Home: Just the main picture, and her name, with a link in the button to Bio
+- Bio: Just put here another ppicture, and a placeholder, like it's on "About" section on the template
+- Gallery: Here we'll include all other photos and a few videos; please check if it's better to embed videos directly from Youtube, or if better upload the video and media to the server and play it from there.
+- Contact: She'll send us this section later, so just put a placeholder here.
+
+Videos are:
+https://www.youtube.com/watch?v=VmgvOh-tFe8
+https://www.youtube.com/watch?v=3MbE3e4LKpk
+https://www.youtube.com/watch?v=76S90z1NzCA
+https://www.youtube.com/watch?v=f599koFlO00
+
+We'll check progress today at 5 PM COT.
+
+Regards,
