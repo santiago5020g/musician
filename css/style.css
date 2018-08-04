@@ -5901,3 +5901,9 @@ a.download-link {
   list-style-type: none; }
 
 /*# sourceMappingURL=style.css.map */
+
+
+/*custom styles*/
+.gallery-img img{
+  height: 209px !important;
+}
